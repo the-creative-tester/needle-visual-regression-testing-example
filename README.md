@@ -1,0 +1,1 @@
+http://the-creative-tester.github.io/Visual-Regression-Testing/
