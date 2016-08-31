@@ -1,1 +1,1 @@
-http://the-creative-tester.github.io/Visual-Regression-Testing/
+http://the-creative-tester.github.io/Python-Visual-Regression-Testing/
